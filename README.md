@@ -14,13 +14,11 @@ Denne oppgaven skal løses i GitSpeak sammen med en medelev. Det vil si at en av
 
 Velg hvilken elev som skal levere inn oppgaven gjennom sin GitSpeak-konto. Inviter deretter den andre medeleven til oppgaven via GitSpeak.
 
-Når dere har skrevet ferdig koden deres skal dere spille inn en liten GitSpeak screencast der dere sammen forklarer koden for læreren.
-
-Når dere har gjort opptaket trykker dere på "Stopp" og deretter "Lever til lærer". Søk opp navnet på læreren deres og velg vedkommende. Trykk på "Lever inn".
+Når dere har skrevet ferdig koden deres skal dere levere inn koden til læreren. Dere trenger ikke å forklare koden. Trykk på "Lever til lærer". Søk opp navnet på læreren deres og velg vedkommende. Trykk på "Lever inn".
 
 
 ## Tilbakemeldingsformat
-Læreren vil gi tilbakemelding skriftlig via GitSpeak-appen. Dere vil se tilbakemeldingen som et tekstfelt under oppgaven deres.
+I denne oppgaven vil læreren gi videotilbakemelding via GitSpeak-appen. Dere vil se tilbakemeldingen som et video-ikon under innleveringen deres. Trykk på dette ikonet for å se gjennom tilbakemeldingen.
 
 
 ## Ekstra utfordringer
