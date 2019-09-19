@@ -7,6 +7,8 @@ Når uttaket er gjennomført, skal det vises hvor mye du tok ut og hvor mye som 
 
 Hvis det ikke er nok penger på kontoen til å ta ut ønsket beløp, skal det vises en melding om dette og uttaket skal ikke gjennomføres.
 
+![](bilde.png)
+
 ## Innleveringsformat
 Denne oppgaven skal løses i GitSpeak sammen med en annen medelev. Det vil si at en av dere leverer inn oppgaven via sin GitSpeak-konto, men dere skal samarbeide om løsningen. Når dere har løst oppgaven skal dere spille inn en liten GitSpeak screencast der dere forklarer koden deres for læreren.
 
